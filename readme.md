@@ -1,8 +1,3 @@
-# Hi, I'm Bilal Ahmad! 👋
-
-## 🚀 About Me
-
-I'm Bilal Ahmad. I have recently done my graduation in **BSCS** from Punjab Univerity Gujranwala Campus [**(PUGC)**](https://pugc.edu.pk/website/). I am expert in Python and AI/ML/DL Enthusiast. I love to be invloved and explore technlogy like emerging field Artificial Intelligence that will be probably next level technological era.
 
 # 🐱‍💻**FRS** (FACE RECOGNITION SYSTEM)
 
@@ -90,9 +85,6 @@ Custom MessegeBox
 | CustomTkinter    | [link](https://customtkinter.tomschimansky.com/)                      |
 | CTkMessagebox    | [link](https://github.com/Akascape/CTkMessagebox#ctkmessagebox)       |
 
-## 🛠 Skills
-
-Python, Flask, Machine Learning, Deep Learning, WordPress ...
 
 ## 🔗 Get In Touch
 
