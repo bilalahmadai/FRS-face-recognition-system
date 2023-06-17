@@ -25,9 +25,9 @@ I have developed **FRS** using [**Python**](https://www.python.org/) and famous 
 
 ![FRP Gif](https://github.com/bilalansar3/FRS/blob/main/screenshots/msj.gif)
 
-`How to use FRS (Face Recogniton System)`
+<!-- `How to use FRS (Face Recogniton System)`
 
-![FRP Screenshot](https://github.com/bilalansar3/FRS/blob/main/screenshots/frs.png)(https://github.com/bilalansar3/FRS/blob/main/screenshots/frs.mp4)
+![FRP Screenshot](https://github.com/bilalansar3/FRS/blob/main/screenshots/frs.png)(https://github.com/bilalansar3/FRS/blob/main/screenshots/frs.mp4) -->
 
 ## How to Insatll FRS
 
